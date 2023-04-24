@@ -1,0 +1,32 @@
+Copy these files, and your dll of choice renamed to d3d9.dll if you'd like to use software rendering, to your Call of Duty 2 folder where the executable is located. 
+
+Launch using the provided shortcut to the .bat file.
+
+To play on unsupported card, we use SwiftShader 3.2 (compiled by guy on ReactOS forums)
+or Swiftshader 3.0 (compiled by MegaFox on Vogons)
+
+
+
+
+
+
+Alternatively, you can do the following:
+
+Launch with shortcut formatted like this: 
+"C:\Program Files\Activision\Call of Duty 2\CoD2SP_s.exe" +set com_introplayed 1 +exec autoexec.cfg
+
+After launching, we enter console (make sure it's enabled) and type:
+thereisacow 1337 (if you use seta this might be unnecessary)
+
+Then enter the map you want to enter into console like so:
+spdevmap libya
+
+Once the map is loaded, open console and do exec autoexec.cfg or autoexec_infantry.cfg
+this file contains the low graphics commands, some of which only work with devmode cheats on (above)
+
+Tweak LOD settings as needed:
+r_lodbias
+r_forceLod
+r_lodScale
+
+Enjoy

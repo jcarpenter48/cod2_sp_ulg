@@ -1,0 +1,26 @@
+thereisacow 1337
+developer 1
+cg_drawFPS 2
+ai_corpseCount 1
+cg_brass 0
+cg_drawGun 1
+cg_marks 0
+com_maxfps 30
+fx_enable 0
+r_aasamples 1
+r_aaAlpha 0
+r_autopriority 1
+r_drawDecals 1
+r_fullscreen 1
+r_glow 0
+r_dlightLimit 1
+r_skinCache 1
+r_zfeather 0
+r_fullbright 1
+r_lodBias -750
+r_forceLod 1
+r_lodScale 2
+cg_drawHealth 1
+g_deathDelay 1500
+sys_gpu
+meminfo

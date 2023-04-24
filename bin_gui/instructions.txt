@@ -1,0 +1,6 @@
+Copy these file to your Call of Duty 2 folder where the executable is located. 
+
+Launch using the provided shortcut to the cod2_sp_ulg_launcher.exe or create your own shortcut.
+
+To play on unsupported card, we use SwiftShader 3.2 (compiled by guy on ReactOS forums)
+or Swiftshader 3.0 (compiled by MegaFox on Vogons)
