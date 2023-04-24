@@ -1,0 +1,9 @@
+M:\VS_Projects\cod2_sp_ulg_launcher\bin\Release\cod2_sp_ulg_launcher.exe
+M:\VS_Projects\cod2_sp_ulg_launcher\bin\Release\cod2_sp_ulg_launcher.pdb
+M:\VS_Projects\cod2_sp_ulg_launcher\obj\Release\cod2_sp_ulg_launcher.csproj.AssemblyReference.cache
+M:\VS_Projects\cod2_sp_ulg_launcher\obj\Release\cod2_sp_ulg_launcher.formMain.resources
+M:\VS_Projects\cod2_sp_ulg_launcher\obj\Release\cod2_sp_ulg_launcher.Properties.Resources.resources
+M:\VS_Projects\cod2_sp_ulg_launcher\obj\Release\cod2_sp_ulg_launcher.csproj.GenerateResource.cache
+M:\VS_Projects\cod2_sp_ulg_launcher\obj\Release\cod2_sp_ulg_launcher.csproj.CoreCompileInputs.cache
+M:\VS_Projects\cod2_sp_ulg_launcher\obj\Release\cod2_sp_ulg_launcher.exe
+M:\VS_Projects\cod2_sp_ulg_launcher\obj\Release\cod2_sp_ulg_launcher.pdb

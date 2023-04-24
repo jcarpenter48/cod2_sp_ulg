@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cod2_sp_ulg_launcher", "cod2_sp_ulg_launcher.csproj", "{ADF86052-1B55-4210-97F9-2AD99166942E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF86052-1B55-4210-97F9-2AD99166942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF86052-1B55-4210-97F9-2AD99166942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF86052-1B55-4210-97F9-2AD99166942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF86052-1B55-4210-97F9-2AD99166942E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC43EF9-E575-459C-A5BB-AC4C5A4C2024}
+	EndGlobalSection
+EndGlobal
