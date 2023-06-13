@@ -5,8 +5,7 @@
 Demolish the graphical appearance of Call of Duty 2 for maximal performance!
 
 ### Description:
-	This is a launcher for Call of Duty 2 Singleplayer that allows the user to launch into any singleplayer mission with Ultra Low Graphics settings applied, even lower than the regular settings menu and configuration files normally allow. Additionally, the user can select from one of a handful of different renderer options, such as Software Rendering through Swiftshader or wrapping with wined3d. 
-Comes in both a GUI Form and a .bat launcher variant, allowing users to choose either a streamlined experience or a simple command line window.
+This is a launcher for Call of Duty 2 Singleplayer that allows the user to launch into any singleplayer mission with Ultra Low Graphics settings applied, even lower than the regular settings menu and configuration files normally allow. Additionally, the user can select from one of a handful of different renderer options, such as Software Rendering through Swiftshader or wrapping with wined3d.  Comes in both a GUI Form and a .bat launcher variant, allowing users to choose either a streamlined experience or a simple command line window.
 
 ### Installation (gui launcher):
   This version is the one you likely want, and works on **Windows XP SP3 and up**.
