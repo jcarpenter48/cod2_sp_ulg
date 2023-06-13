@@ -39,5 +39,6 @@ Comes in both a GUI Form and a .bat launcher variant, allowing users to choose e
   6. Select your preferred campaign, mission, and enter to launch!
 
 ### Building:
-  This project was built using Visual Studio on Windows 10 and targets .NET 4.0
-  1. Update me!
+  This project was built using Visual Studio 16.0.33328.57 on Windows 10 22H2 and targets .NET 4.0 for XP SP3 compatibility
+  1. Minimum Required VS version: 10.0.40219.1
+  2. Update me!
